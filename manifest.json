@@ -1,0 +1,12 @@
+{
+    "name": "Facebook Plus",
+    "version": "0.1",
+    "manifest_version": 3,
+    "description": "An extension to improve your facebook browsing experience",
+    "icons":{
+        "512": "icons/plus.png"
+    },
+    "action":{
+        "default_popup":"popups/popup.html"
+    }
+}
